@@ -1,0 +1,7 @@
+{
+  "name": "dabaseexample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
